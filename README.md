@@ -1,8 +1,6 @@
 ### Hi there 👋
 My name is Sam, and I am a front-end engineer. 
-</br>
-</br>
-#### Currently Working On:
+### Currently Working On :
 Using React / Typescript / Ethers.js to build the UI for an NFT aggregator for artists.
 
 ### Languages & Tools
