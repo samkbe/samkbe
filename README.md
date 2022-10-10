@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sam, and I am a front-end engineer. 
+My name is Sam, and I am a software engineer. 
 ### Currently Working On :
 Using React / Typescript / Ethers.js to build the UI for an NFT aggregator for artists.
 
