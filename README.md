@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Sam, and I am a software engineer. 
 ### Currently Working On :
-Using React / Typescript / Ethers.js to build the UI for an NFT aggregator for artists.
+Using Next.js / Typescript / Ethers.js to build the UI for an NFT aggregator for artists.
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
