@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Sam, and I am a software engineer. 
 ### Currently Working On :
-QR8 - A platform focused on curation for artists and collectors. Artists, curators, and collectors can create profiles that act as all-in-one discovery tools for their smart contracts deployed on the Ethereum blockchain (with the intention to add alternative L1s and L2s in the future). 
-- [Repo](https://github.com/whats-good/artbox)
-- [Current Deployed Version](https://artbox-web-app.vercel.app/) (In development)
+Title-gen - an AI powered Title Tag and Description tag generator for SEO purposes. Input your URL, company name and target keyword and receive optimized title and description tags.
+- [Repo](https://github.com/samkbe/title-tag-generator)
+- [Current Deployed Version](title-tag-generator.vercel.app) (In development)
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
