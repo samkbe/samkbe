@@ -3,7 +3,7 @@ My name is Sam, and I am a software developer.
 ### Currently Working On :
 Title-gen - an AI powered Title Tag and Description tag generator for SEO purposes. Input your URL, company name and target keyword and receive optimized title and description tags.
 - [Repo](https://github.com/samkbe/title-tag-generator)
-- [Current Deployed Version](title-tag-generator.vercel.app) (In development)
+- [Current Deployed Version](https://title-tag-generator.vercel.app) (In development)
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
