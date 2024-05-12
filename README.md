@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Sam, and I am a software developer. 
-### Currently Working On :
+My name is Sam, and I am a Web Developer currently working at a consulting agency.
+### Currently Working On:
 Title-gen - an AI powered Title Tag and Description tag generator for SEO purposes. Input your URL, company name and target keyword and receive optimized title and description tags.
 - [Repo](https://github.com/samkbe/title-tag-generator)
 - [Current Deployed Version](https://title-tag-generator.vercel.app) (In development)
